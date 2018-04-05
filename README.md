@@ -1,4 +1,4 @@
-[![Sign Up](https://img.shields.io/github/downloads/Sam-Ryan/Scylla/total.svg)](http://api.yougraph.fr)
+[![Sign Up](https://img.shields.io/github/downloads/Sam-Ryan/YouShort/total.svg)](http://api.yougraph.fr)
 
 # YouShort
 A Free URL shortened with an api
