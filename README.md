@@ -35,7 +35,7 @@ A Free URL shortened with an api
   Please note that this method does not return anything. It simply redirects the user to the redirection page. However if you need the        actual short URL, you can always get it from your dashboard.
   
   # Contributions
-Any contribution is more than welcome! You can contribute through pull requests and [issues] https://github.com/Sam-Ryan/YouShort/issues
+— Any contribution is more than welcome! You can contribute through pull requests and [issues] https://github.com/Sam-Ryan/YouShort/issues
   
   ### Notices:
 
