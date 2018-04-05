@@ -40,6 +40,12 @@ A Free URL shortened with an api
 * Functions
 ![](https://github.com/Sam-Ryan/YouShort/blob/master/images/Screenshot_3.png?raw=true)
 
+* Homepage
+![](https://github.com/Sam-Ryan/YouShort/blob/master/images/Screenshot_4.png?raw=true)
+
+* Website
+![](https://github.com/Sam-Ryan/YouShort/blob/master/images/Screenshot_5.png?raw=true)
+
 
 
 
