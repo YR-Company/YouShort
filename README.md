@@ -32,13 +32,13 @@ A Free URL shortened with an api
 
 # Screenshot
 * Dashboard
-![](https://github.com/Sam-Ryan/YouShort/images/Screenshot_1.png?raw=true)
+![](https://github.com/Sam-Ryan/YouShort/blob/master/images/Screenshot_1.png?raw=true)
 
 * Short URL
-![](https://github.com/Sam-Ryan/YouShort/images/Screenshot_2.png?raw=true)
+![](https://github.com/Sam-Ryan/YouShort/blob/master/images/Screenshot_2.png?raw=true)
 
 * Functions
-![](https://github.com/Sam-Ryan/YouShort/images/Screenshot_3.png?raw=true)
+![](https://github.com/Sam-Ryan/YouShort/blob/master/images/Screenshot_3.png?raw=true)
 
 
 
