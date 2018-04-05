@@ -28,7 +28,7 @@ A Free URL shortened with an api
 * Examples </br>
   http://api.yougraph.fr/q/?u=https://www.google.com </br>
   http://api.yougraph.fr/q/?u=snapchat.com </br>
-  http://api.yougraph.fr/q/?u=http://www.apple.com/iphone-X/
+  http://api.yougraph.fr/q/?u=https://www.apple.com/iphone-x/
 
 * Notes
 
