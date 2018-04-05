@@ -30,6 +30,19 @@ A Free URL shortened with an api
   http://api.yougraph.fr/q/?u=snapchat.com </br>
   http://api.yougraph.fr/q/?u=https://www.apple.com/iphone-x/
 
+# Screenshot
+* Dashboard
+![](https://github.com/Sam-Ryan/YouShort/images/Screenshot_1.png?raw=true)
+
+* Short URL
+![](https://github.com/Sam-Ryan/YouShort/images/Screenshot_2.png?raw=true)
+
+* Functions
+![](https://github.com/Sam-Ryan/YouShort/images/Screenshot_3.png?raw=true)
+
+
+
+
 * Notes
 
   Please note that this method does not return anything. It simply redirects the user to the redirection page. However if you need the        actual short URL, you can always get it from your dashboard.
