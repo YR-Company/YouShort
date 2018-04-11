@@ -54,11 +54,6 @@ A Free URL shortened with an api
   Please note that this method does not return anything. It simply redirects the user to the redirection page. However if you need the        actual short URL, you can always get it from your dashboard.
   
   # Contributions
-- Any contribution is more than welcome! You can contribute through pull requests and [issues] https://github.com/Sam-Ryan/YouShort/issues
+  If you find something wrong you can contribute through [issues] https://github.com/Sam-Ryan/YouShort/issues
   
-  ### Notices:
-
-- You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-- No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
 Thank you!
