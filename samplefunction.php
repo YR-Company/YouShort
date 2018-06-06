@@ -1,5 +1,5 @@
 <?php
-/**** Sample PHP Function ***/
+/**** Sample PHP Function With API KEY ***/
 function shorten($url, $custom = "", $format = "json") { 
 $api_url = "http://api.yougraph.fr/api/?key=YOURAPIKEY";
 $api_url .= "&url=".urlencode(filter_var($url, FILTER_SANITIZE_URL));
